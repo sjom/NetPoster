@@ -1,0 +1,12 @@
+--NetPoster Source Instructions--
+Made with: Visual Studio C# 2010 Express Edition
+Framework: .NET 3.5
+
+Instructions - Download the source, extract, and then open the solution to edit.
+
+
+--CHANGELOG--
+
+Version 0.1 Alpha - Initial Release
+
+Version 0.2 Alpha - Added Replying, and upgraded to Net12 API version 2.0.
