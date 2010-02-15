@@ -1,0 +1,14 @@
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\NetPoster.csproj.ResolveComReference.cache
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\NetPoster.Login.resources
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\NetPoster.MainForm.resources
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\NetPoster.Properties.Resources.resources
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\bin\Release\NetPoster.exe
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\bin\Release\NetPoster.pdb
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\NetPoster.exe
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\NetPoster.pdb
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\bin\Release\NetPoster.exe.config
