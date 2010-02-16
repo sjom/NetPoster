@@ -1,0 +1,26 @@
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\bin\Debug\NetPoster.exe
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\bin\Debug\NetPoster.pdb
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\obj\x86\Debug\NetPoster.Login.resources
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\obj\x86\Debug\NetPoster.MainForm.resources
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\obj\x86\Debug\NetPoster.Properties.Resources.resources
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\obj\x86\Debug\NetPoster.exe
+C:\Users\Samuel\AppData\Local\Temporary Projects\NetPoster\obj\x86\Debug\NetPoster.pdb
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\NetPoster.exe
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\NetPoster.pdb
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\bin\Debug\NetPoster.exe
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\bin\Debug\NetPoster.pdb
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\NetPoster.Login.resources
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\NetPoster.MainForm.resources
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\NetPoster.Properties.Resources.resources
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\NetPoster.csproj.ResolveComReference.cache
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\bin\Debug\NetPoster.exe.config
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Samuel\documents\visual studio 2010\Projects\NetPoster\NetPoster\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Samuel\Documents\Visual Studio 2010\Projects\NetPoster\NetPoster\bin\Debug\SJSUpdater.dll
+C:\Users\Samuel\Documents\Visual Studio 2010\Projects\NetPoster\NetPoster\bin\Debug\SJSUpdater.pdb
