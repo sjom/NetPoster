@@ -10,3 +10,9 @@ Instructions - Download the source, extract, and then open the solution to edit.
 Version 0.1 Alpha - Initial Release
 
 Version 0.2 Alpha - Added Replying, and upgraded to Net12 API version 2.0.
+
+Version 0.3 Alpha - Added Update Framework
+
+--FUTURE UPDATES--
+
+Version 0.4 Beta - BackgroundWorker on posting, improve replies, parse links and bold text, add delete functionality.
