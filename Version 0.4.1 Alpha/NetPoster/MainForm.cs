@@ -539,13 +539,13 @@ namespace NetPoster
 
         private void checkForUpdatesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            SJSUpdater.Updates updater = new SJSUpdater.Updates(1, 2, this);
+            SJSUpdater.Updates updater = new SJSUpdater.Updates(1, 3, this);
             updater.checkForUpdates(true);
         }
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            SJSUpdater.Updates updater = new SJSUpdater.Updates(1, 2, this);
+            SJSUpdater.Updates updater = new SJSUpdater.Updates(1, 3, this);
             updater.checkForUpdates(false);
         }
 
