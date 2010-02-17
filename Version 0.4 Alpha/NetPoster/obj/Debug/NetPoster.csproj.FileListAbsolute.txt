@@ -1,0 +1,13 @@
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\obj\Debug\NetPoster.Login.resources
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\obj\Debug\NetPoster.MainForm.resources
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\obj\Debug\NetPoster.Properties.Resources.resources
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\obj\Debug\NetPoster.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\bin\Debug\NetPoster.exe
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\bin\Debug\NetPoster.pdb
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\bin\Debug\SJSUpdater.dll
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\bin\Debug\SJSUpdater.pdb
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\obj\Debug\NetPoster.exe
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\obj\Debug\NetPoster.pdb
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\obj\Debug\NetPoster.Settings.resources
+C:\Users\Samuel\Documents\Visual Studio 2008\Projects\NetPoster\NetPoster\bin\Debug\NetPoster.exe.config
